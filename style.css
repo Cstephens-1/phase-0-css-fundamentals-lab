@@ -3,3 +3,40 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header{
+  text-align: center;
+}
+
+.center{
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+#navlink{
+  background-color: grey;
+}
+
+#captiontext{
+  font-size: 12px;
+  text-align: center;
+}
+
+#propertytext{
+  align-items: center;
+  width: 800px;
+  text-align: center;
+}
+
+#propertytext{
+  text-align: center;
+  margin: auto;
+}
+
+.footer{
+  float: left;
+  background-color: red;
+  width: 25%;
+  text-align: center;
+}
